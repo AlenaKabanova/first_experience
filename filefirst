@@ -1,0 +1,9 @@
+Hello world
+cd ~
+cd ..
+ls
+ls -la
+cat .bash_history 
+tac .bash_history
+touch fikename
+ 
